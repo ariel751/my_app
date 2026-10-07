@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+body {
+  background-color: #0f172a; /* Warna slate-900 yang gelap, modern, dan elegan */
+  color: #f8fafc; /* Warna teks putih terang agar kontras dan mudah dibaca */
+  font-family: system-ui, -apple-system, sans-serif;
+}
